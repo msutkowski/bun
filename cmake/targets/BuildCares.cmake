@@ -4,7 +4,7 @@ register_repository(
   REPOSITORY
     c-ares/c-ares
   COMMIT
-    4f4912bce7374f787b10576851b687935f018e17
+    1e26a5c35286f208f36690be83567dc13d246773
 )
 
 register_cmake_command(
