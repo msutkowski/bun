@@ -4,7 +4,7 @@ register_repository(
   REPOSITORY
     libarchive/libarchive
   COMMIT
-    898dc8319355b7e985f68a9819f182aaed61b53a
+    7a334d5ea547a13f961046399a22249ca2f27bf5
 )
 
 register_cmake_command(
